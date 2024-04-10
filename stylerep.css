@@ -1,0 +1,39 @@
+/* style.css */
+
+.wrapper {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+body {
+    background-color: rgb(224, 168, 199);
+  }
+.btn {
+    display: inline-block;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #c79eb2;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.btn-primary {
+    background-color: #a07a8f;
+}
+
+.btn-primary:hover {
+    background-color: #887186;
+}

@@ -1,0 +1,18 @@
+h1{color: #640a4f;
+
+}
+p{
+  font-weight: bold;
+}
+em {
+  color: red;
+}
+body {
+  background-color: rgb(230, 195, 216);
+  grid-template-columns: 20px;
+}
+button{ background-color: rgb(145, 102, 139); 
+    border-radius:  45px;}
+h5{
+    color: #d89fc2;
+}

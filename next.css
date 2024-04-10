@@ -1,0 +1,30 @@
+h1{color: hsl(315, 79%, 16%);
+
+}
+h2{
+    color: #771a5b;
+}
+img {
+  width: 500px;
+  height: auto;
+  border-radius: 1px;
+  float: middle;
+  margin-right: 300px;
+  -webkit-box-reflect: right;
+}
+
+
+p{
+  font-weight: bold;
+}
+em {
+  color: red;
+}
+body {
+  background-color: rgb(143, 98, 125);
+}
+button{ background-color: rgb(145, 102, 139); border-radius:  45px;}
+/* CSS for Navigation Bar */
+nav {
+  background-color: #ad8fa6;
+  padding: 7px;}

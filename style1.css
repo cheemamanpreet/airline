@@ -1,0 +1,50 @@
+
+h1{color: #640a4f;
+
+}
+img {
+  width: 600px;
+  height: 45;
+  border-radius: 1px;
+  float: middle;
+  margin-right: 700px;
+  -webkit-box-reflect: right;
+}
+
+
+p{
+  font-weight: bold;
+}
+em {
+  color: red;
+}
+body {
+  background-color: rgb(191, 186, 216);
+}
+button{ background-color: rgb(145, 102, 139); border-radius:  45px;}
+/* CSS for Navigation Bar */
+nav {
+  background-color: #ad8fa6;
+  padding: 10px;}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  word-break: break-word;
+}
+
+li {
+  display: inline;
+  margin-right: 20px;
+  word-break: break-word;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+

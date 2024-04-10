@@ -1,0 +1,64 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(230, 195, 216);
+}
+
+header {
+  background-color:#98a2da;;
+  color: #995699;
+  text-align: center;
+  padding: 20px 0;
+}
+
+main {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+.ticket {
+  border: 1px solid  rgb(145, 102, 139);;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+  width: 30%;
+}
+
+.ticket h2 {
+  color:#7791c4;;
+}
+
+.ticket p {
+  color: #666;
+}
+
+.ticket button {
+  background-color: #85355a;
+  color: #a8c4df;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.ticket button:hover {
+  background-color:#7c5a74;;
+}
+
+footer {
+  background-color: #c5acbe;
+  color: #9c7997;
+  text-align: center;
+  padding: 20px 0;
+}
+img {
+  width: 600px;
+  height: 45;
+  border-radius: 1px;
+  float: middle;
+  margin-right: 700px;
+  -webkit-box-reflect: right;
+}
